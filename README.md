@@ -1,4 +1,5 @@
 # javascript_start
+[끝말잇기 게임](https://hayeon123.github.io/javascript_start/끝말잇기게임/index.html)
 
 ### innerText, textContent 차이
 
